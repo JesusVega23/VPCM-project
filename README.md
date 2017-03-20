@@ -18,7 +18,7 @@ In this project , the team will be dealing twith the tools provided by Amazon We
             -Tel. number: (787) 455-3892
    ```
 # Sponsor
- ### Verizon Technologies:
+ ## Verizon Technologies:
  ```markdown
  **John Martin**
    Contact Information: 
@@ -27,16 +27,10 @@ In this project , the team will be dealing twith the tools provided by Amazon We
  **Sebastian Nicolaescu**
    Contact Information:
           1. email: sebastian.nicolaescu@verizon.com
+ ```
 ## References
 Amazon Web Services [AWS](aws.amazon.com)
 
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
