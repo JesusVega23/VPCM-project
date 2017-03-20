@@ -2,29 +2,34 @@
 
 In this project , the team will be dealing twith the tools provided by Amazon Web Services  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-Syntax highlighted code block
-
 # Students
 
  
-  ### Irixa Vales:
+  **Irixa Vales:**
   ```markdown
    Contact Information:
             -email: irixa.vales@upr.edu
             -Tel. number: (787) 550-6715
    ``` 
- ### Jesus G. Vega Alejandro:
+ **Jesus G. Vega Alejandro:**
    ```markdown
    Contact Information:
             -email: jesus.vega8@upr.edu
             -Tel. number: (787) 455-3892
    ```
+# Sponsor
+ ### Verizon Technologies:
+ ```markdown
+ **John Martin**
+   Contact Information: 
+          1. email: john.c.martin@verizon.com
+ 
+ **Sebastian Nicolaescu**
+   Contact Information:
+          1. email: sebastian.nicolaescu@verizon.com
 ## References
-Amazon Web Services [Link](aws.amazon.com)
+Amazon Web Services [AWS](aws.amazon.com)
+
 ### Header 3
 
 - Bulleted
