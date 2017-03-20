@@ -11,13 +11,13 @@ Syntax highlighted code block
 # Students
 
  
-  -Irixa Vales:
+  ### Irixa Vales:
   ```markdown
    Contact Information:
             -email: irixa.vales@upr.edu
             -Tel. number: (787) 550-6715
    ``` 
- -Jesus G. Vega Alejandro:
+ ### Jesus G. Vega Alejandro:
    ```markdown
    Contact Information:
             -email: jesus.vega8@upr.edu
