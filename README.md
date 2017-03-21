@@ -1,8 +1,21 @@
-## Virtual Private Cloud Migration Tools
+# Virtual Private Cloud Migration Tools
 
-In this project , the team will be dealing twith the tools provided by Amazon Web Services  
+In this project , the team will be dealing twith the tools provided by Amazon Web Services 
 
-# Students
+## Background Information 
+   
+   ### Cloud Networks and Virtual Machines
+   - Cloud computing is a term describing the access of networking resources from a centralized third-party provider using Internet based access technologies. Cloud products provide centralized visibility and controlled over the network
+     - ![image]
+   - Virtual machines are part of the resources provided by cloud computing. A virtual machine (VM) is a software computer that a physical machine, contains an operating system and manages application. A VM is backed by the physical capacities of a host.
+
+### Migration of Virtual Machines
+   - Virtual Machine Migration is the task of moving a virtual machine from one physical hardware environment to another. It is part of      managing hardware virtualization systems and is something that providers look at as they offer virtualization services. The purpose      of this is to manage space  a console to make divere modification as well as to relocate resources to hosts in areas of necessity. 
+   - Live Migration derives from this as it permits hosts to migrate VM’s without shutting them down. Many providers offer live migration with relative to no downtime for their consumers. 
+
+
+
+## Students
 
  
   **Irixa Vales:**
@@ -17,32 +30,26 @@ In this project , the team will be dealing twith the tools provided by Amazon We
             -email: jesus.vega8@upr.edu
             -Tel. number: (787) 455-3892
    ```
-# Sponsor
- ## Verizon Technologies:
+## Sponsor
+ ### Verizon Technologies:
  ```markdown
- **John Martin**
+ John Martin
    Contact Information: 
           1. email: john.c.martin@verizon.com
  
- **Sebastian Nicolaescu**
+ Sebastian Nicolaescu
    Contact Information:
           1. email: sebastian.nicolaescu@verizon.com
  ```
 ## References
-Amazon Web Services [AWS](aws.amazon.com)
+- Amazon Web Services [aws.amazon.com](aws.amazon.com)
+- Amazon Virtual Private Cloud [https://aws.amazon.com/vpc/] (https://aws.amazon.com/vpc/)
+- Google Cloud Platform [] 
+- Verizon Enterprize [verizonenterprize.com] (http://www.verizonenterprise.com/)
 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JesusVega23/VPCM-project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
