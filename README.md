@@ -3,8 +3,7 @@
 In this project , the team will be dealing twith the tools provided by Amazon Web Services 
 
 ## Background Information 
-   
-   ### Cloud Networks and Virtual Machines
+### Cloud Networks and Virtual Machines
    - Cloud computing is a term describing the access of networking resources from a centralized third-party provider using Internet based access technologies. Cloud products provide centralized visibility and controlled over the network
      - ![image]
    - Virtual machines are part of the resources provided by cloud computing. A virtual machine (VM) is a software computer that a physical machine, contains an operating system and manages application. A VM is backed by the physical capacities of a host.
