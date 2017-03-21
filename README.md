@@ -3,6 +3,7 @@
 In this project , the team will be dealing twith the tools provided by Amazon Web Services 
 
 ## Background Information 
+
 ### Cloud Networks and Virtual Machines
    - Cloud computing is a term describing the access of networking resources from a centralized third-party provider using Internet based access technologies. Cloud products provide centralized visibility and controlled over the network
      - ![image]
@@ -30,7 +31,7 @@ In this project , the team will be dealing twith the tools provided by Amazon We
             -Tel. number: (787) 455-3892
    ```
 ## Sponsor
- ### Verizon Technologies:
+### Verizon Technologies:
  ```markdown
  John Martin
    Contact Information: 
@@ -42,9 +43,9 @@ In this project , the team will be dealing twith the tools provided by Amazon We
  ```
 ## References
 - Amazon Web Services [aws.amazon.com](aws.amazon.com)
-- Amazon Virtual Private Cloud [https://aws.amazon.com/vpc/] (https://aws.amazon.com/vpc/)
-- Google Cloud Platform [] 
-- Verizon Enterprize [verizonenterprize.com] (http://www.verizonenterprise.com/)
+- Amazon Virtual Private Cloud [https://aws.amazon.com/vpc/](aws.amazon.com/vpc/)
+- Google Cloud Platform [cloud.google.com](cloud.google.com)
+- Verizon Enterprize [verizonenterprize.com](www.verizonenterprise.com/)
 
 
 
