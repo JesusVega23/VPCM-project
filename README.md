@@ -31,6 +31,7 @@ In this project , the team will be dealing twith the tools provided by Amazon We
             -Tel. number: (787) 455-3892
    ```
 ## Sponsor
+
 ### Verizon Technologies:
  ```markdown
  John Martin
@@ -42,8 +43,9 @@ In this project , the team will be dealing twith the tools provided by Amazon We
           1. email: sebastian.nicolaescu@verizon.com
  ```
 ## References
+
 - Amazon Web Services [aws.amazon.com](aws.amazon.com)
-- Amazon Virtual Private Cloud [https://aws.amazon.com/vpc/](aws.amazon.com/vpc/)
+- Amazon Virtual Private Cloud [aws.amazon.com/vpc/](aws.amazon.com/vpc/)
 - Google Cloud Platform [cloud.google.com](cloud.google.com)
 - Verizon Enterprize [verizonenterprize.com](www.verizonenterprise.com/)
 
