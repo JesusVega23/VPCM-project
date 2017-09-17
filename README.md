@@ -42,6 +42,7 @@ In this project , the team will be dealing twith the tools provided by Amazon We
    Contact Information:
           1. email: sebastian.nicolaescu@verizon.com
  ```
+
 ## References
 
 - Amazon Web Services [aws.amazon.com](aws.amazon.com)
